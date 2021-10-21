@@ -1,0 +1,15 @@
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\bin\Debug\netstandard2.0\AppApiLibre.deps.json
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\bin\Debug\netstandard2.0\AppApiLibre.dll
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\bin\Debug\netstandard2.0\ref\AppApiLibre.dll
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\bin\Debug\netstandard2.0\AppApiLibre.pdb
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.csproj.AssemblyReference.cache
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.AssemblyInfoInputs.cache
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.AssemblyInfo.cs
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.csproj.CoreCompileInputs.cache
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.dll
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\ref\AppApiLibre.dll
+C:\Users\osval\source\repos\AppApiLibre\AppApiLibre\obj\Debug\netstandard2.0\AppApiLibre.pdb
